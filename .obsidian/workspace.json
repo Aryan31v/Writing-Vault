@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d88afa549befee19",
+        "id": "09e57e74d8a022f7",
         "type": "tabs",
         "children": [
           {
-            "id": "d8c10727a3d4ecb4",
+            "id": "e306596b351a848f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "prompt"
             }
           }
         ]
@@ -177,12 +191,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e6e3507ce56ee10e",
+  "active": "e306596b351a848f",
   "lastOpenFiles": [
+    "To-Do List.md",
+    "prompt.md",
+    "Prompt.md",
+    "03 - Plotting/Main Plot Outline.md",
     "01 - Characters/Protagonist.md",
     "06 - Writing Business/Content Ideas.md",
     "06 - Writing Business/Substack Strategy.md",
-    "03 - Plotting/Main Plot Outline.md",
     "06 - Writing Business",
     "Substack Niche Brainstorm.md",
     "Novel Brainstorming.canvas",
