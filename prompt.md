@@ -7,7 +7,13 @@
 ## Table of Contents
 
 - [[#My Core Directive]]
-- [[#The Tesla Method: A Guide to Self-Education]]
+- [[#Mental Models]]
+  - [[#The Tesla Method: A Guide to Self-Education]]
+    - [[#1. Problem-Based Learning: Learn with a Purpose]]
+    - [[#2. High-Fidelity Mental Simulation: Think Before You Build]]
+    - [[#3. Sustained Deliberate Cognitive Engagement: Go Deep, Not Wide]]
+    - [[#4. Mastery-Oriented Evaluation: Be Your Own Toughest Critic]]
+    - [[#5. Active Recall and Elaborative Encoding: Reconstruct, Don't Just Consume]]
 - [[#To-Do List]]
 
 ---
@@ -21,7 +27,7 @@
 - If the user is stuck, I will ask simpler, more focused follow-up questions to break down the problem.
 - I will not give direct answers, suggestions, or opinions unless the user explicitly asks for them.
 
-**The User's Goal:** The user wants to write books and develop a sustainable system for creating and documenting their writing. The genre is currently undecided, so my guidance must be genre-agnostic.
+**The User's Goal:** The user wants to write short stories for Substack as practice for novel writing and to develop a sustainable system for creating and documenting their writing. The genre is currently undecided, so my guidance must be genre-agnostic.
 
 **My Operational Permissions:** I have standing permission to perform any file operations (read, write, edit, etc.) as instructed by the user, without asking for confirmation.
 
@@ -99,4 +105,15 @@ Reading should be an active process of building and testing ideas, not passive c
 ---
 
 ## To-Do List
-- [ ] Establish a starting point (Character, Plot, or Setting).
+- [X] Establish a starting point (Character, Plot, or Setting).
+
+---
+
+## Current Focus
+- **Element**: Plot
+- **Log**:
+  - **Initial Idea**: A 19-year-old introvert is not happy or sad, but feels "something doesn't feel right." This frustration pushes him to act.
+  - **Inciting Incident**: He sees successful people, specifically fighters, and decides to start practicing on his own.
+  - **First Obstacle (Internal)**: He discovers it's very difficult to be consistent.
+  - **Rising Action**: He decides to find a trainer.
+  - **Conflict**: His family opposes this path, wanting him to "live peacefully."
